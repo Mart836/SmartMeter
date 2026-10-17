@@ -1,0 +1,9 @@
+# Private settings (WiFi login, phone number)
+secrets.h
+
+# macOS / editor
+.DS_Store
+.vscode/
+
+# Arduino build output
+build/
